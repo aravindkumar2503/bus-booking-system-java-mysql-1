@@ -1,5 +1,4 @@
-# java-project
-
+# java-project # Bus Booking System using Java and MySQL
 # Java Bus Booking System 🚍
 
 A simple **Java console-based Bus Booking System** with **JDBC and MySQL database integration**.
